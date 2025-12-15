@@ -6,4 +6,3 @@ requests
 python-dotenv
 pyarrow
 streamlit-plotly-events
-EOF
