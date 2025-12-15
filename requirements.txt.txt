@@ -1,0 +1,9 @@
+streamlit
+plotly
+pandas
+numpy
+requests
+python-dotenv
+pyarrow
+streamlit-plotly-events
+EOF
